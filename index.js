@@ -64,7 +64,7 @@ console.log("Array:", numbersArray);
 
 // Array → many items (stored together)
 
-// ⚙️ Level 2: Accessing and Modifying Arrays
+//  Level 2: Accessing and Modifying Arrays
 // Q5. How do you access specific items from an array?
 
 // You access array items using index numbers, starting from 0.
