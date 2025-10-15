@@ -1,4 +1,4 @@
-// 🌟Level 1: Understanding Arrays
+// Level 1: Understanding Arrays
 // Q1. What is an array in JavaScript?
 
 // Definition (in my own words):
