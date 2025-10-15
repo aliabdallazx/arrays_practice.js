@@ -78,8 +78,9 @@ console.log("Last element:", fruits[fruits.length - 1]); // Orange
 
 // You can update an element using its index.
 
-let colors = ["Red", "Blue", "Green"];
-colors[1] = "Yellow"; // Change "Blue" to "Yellow"
+// let colors = ["Red", "Blue", "Green"];
+colors[1] = "Yellow"; 
+// Change "Blue" to "Yellow"
 
 console.log(colors); // ["Red", "Yellow", "Green"]
 
@@ -121,13 +122,13 @@ while (i < fruits.length) {
 }
 
 // Q10. Print all numbers in an array multiplied by 2
-let numbers = [2, 4, 6, 8];
+// let numbers = [2, 4, 6, 8];
 for (let i = 0; i < numbers.length; i++) {
   console.log(numbers[i] * 2);
 }
 
 // Q11. Create an array of names and print each name in uppercase
-let names = ["ali", "sara", "mohamed", "lina"];
+let names = ["ali", "cadeuo", "mohamed", "lina"];
 
 for (let name of names) {
   console.log(name.toUpperCase());
@@ -144,7 +145,7 @@ for (let car of cars) {
 console.log("Total items:", count);
 
 // Q13. Find the largest and smallest number in an array
-let numbers = [12, 45, 7, 89, 23, 3];
+// let numbers = [12, 45, 7, 89, 23, 3];
 let largest = numbers[0];
 let smallest = numbers[0];
 
